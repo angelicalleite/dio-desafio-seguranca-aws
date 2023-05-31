@@ -24,9 +24,9 @@ Segurança de rede:
 
 Medida 3: 
 Monitoramento e registro de atividades:
--Ative o AWS CloudTrail para registro de ações.
--Configure alertas com o Amazon CloudWatch.
--Utilize o AWS Config para avaliar a conformidade.
+- Ative o AWS CloudTrail para registro de ações.
+- Configure alertas com o Amazon CloudWatch.
+- Utilize o AWS Config para avaliar a conformidade.
 
 
 ## Conclusão
